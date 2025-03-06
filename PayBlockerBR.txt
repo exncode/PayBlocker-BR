@@ -1,4 +1,4 @@
-! Title: PayBlocker-BR
+! Title: PayBlocker BR 🇧🇷
 ! Description: Te permite ler notícias e artigos de sites brasileiros variados.
 ! Homepage: https://github.com/exncode/PayBlocker-BR
 ! Issues: https://github.com/exncode/PayBlocker-BR/issues
